@@ -23,7 +23,7 @@ A simple frontend Amazon clone built using **HTML & CSS**. This project replicat
 
 ## 📸 Preview
 
-![Amazon Clone Preview](https://rohithdannana156.github.io/Amazon-Clone/images/preview.jpg)
+![Amazon Clone Preview](https://rohithdannana156.github.io/Amazon-Clone/)
 
 ---
 

@@ -16,12 +16,15 @@ A simple frontend Amazon clone built using **HTML & CSS**. This project replicat
 
 ## 📂 Project Structure
 
-📁 Amazon-Clone
-├── index.html → Main HTML file
-├── style.css → Stylesheet
-├── images/ → All images used in the project
-├── README.md → Project documentation
-└── other files...
+## 📂 Project Structure  
+
+📁 Amazon-Clone  
+├── **index.html** → Main HTML file  
+├── **style.css** → Stylesheet  
+├── **images/** → All images used in the project  
+├── **README.md** → Project documentation  
+└── other files...  
+
 
 ---
 
